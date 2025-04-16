@@ -7,11 +7,11 @@ buildscript {
     ext {
         compileSdk = 27
         targetSdk = 27
-        minSdk = 16
+        minSdk = 26
 
         kotlinVersion = '1.2.31'
         supportLibVersion = '27.1.1'
-        poiVersion = '3.17'
+        poiVersion = '5.2'
     }
 
     dependencies {
